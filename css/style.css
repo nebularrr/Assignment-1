@@ -1,6 +1,10 @@
 h1 {
+	position: absolute;
+	left: 50%;
+	Top:10%
+	transform: translateX(-50%) translatey(-50);
 	color: Blue;
-	font-size: 50px;
+	font-size: 45px;
 }
 
 
